@@ -36,6 +36,6 @@ Creating a Slide Deck is one of the important aspects of explanatory analysis as
 
 Following steps are used for Creation of Slide Deck:
 
-> Open the Anaconda Prompt or Command Prompt.
-> Change Directory to the project folder (i.e cd "folder name").
-> Type: jupyter nbconvert file_name.ipynb --to slides --post serve --template output_toggle
+* Open the Anaconda Prompt or Command Prompt.
+* Change Directory to the project folder (i.e cd "folder name").
+* Type: jupyter nbconvert file_name.ipynb --to slides --post serve --template output_toggle
