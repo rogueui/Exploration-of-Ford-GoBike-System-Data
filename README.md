@@ -11,8 +11,8 @@ Dataset Options
 
 [Ford GoBike System Data](https://s3.amazonaws.com/baywheels-data/202003-baywheels-tripdata.csv.zip)
 
-Either You can download from the link or just run the program (i.e exploration_template.ipynb).
-Or Click the [link](https://s3.amazonaws.com/baywheels-data/index.html) to download dataset of other month/year.
+* Either You can download from the link or just run the program (i.e exploration_template.ipynb).
+* Click the [link](https://s3.amazonaws.com/baywheels-data/index.html) to download dataset of other month/year.
 
 ## Exploration of Data
 
